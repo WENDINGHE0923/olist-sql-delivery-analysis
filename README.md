@@ -240,3 +240,11 @@ This SQL project shows that delivery performance and freight cost are closely re
 Delivered orders with longer delivery times and late deliveries had lower average review scores. Higher freight cost was also associated with lower customer ratings.
 
 Through SQL-based analysis, this project provides insights into sales performance, logistics efficiency, product category performance, and customer experience for an e-commerce marketplace.
+
+## Tableau Dashboard
+
+I created a Tableau dashboard using SQL-exported summary tables to visualize delivery performance, review score patterns, freight cost groups, monthly revenue trends, and top product categories.
+
+Key insight: Late deliveries received a much lower average review score than on-time deliveries, suggesting that delivery performance is strongly associated with customer satisfaction.
+
+![Tableau Dashboard](screenshots/dashboard.png)
