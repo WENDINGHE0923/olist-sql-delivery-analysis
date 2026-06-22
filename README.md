@@ -13,6 +13,7 @@ This project focuses on business questions related to sales performance, logisti
 * SQL
 * SQLite
 * DBeaver
+* Tableau
 * Olist Brazilian E-commerce Dataset
 
 ## Dataset
